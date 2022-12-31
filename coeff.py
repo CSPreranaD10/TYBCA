@@ -46,4 +46,4 @@ cluster_labels = np.argmin(dist_matrix, axis=1)
 plt.scatter(x[:, 0], x[:, 1], c=cluster_labels, cmap='gist_rainbow')
 plt.show()
 
-#slip 2
+#slip 3,7,18

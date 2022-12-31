@@ -25,5 +25,4 @@ y_pred = model.predict(X)
 
 # Print the prediction results
 print('Predicted CO2 values:', y_pred)
-
-#slip 19,12
+#slip 19,12 
